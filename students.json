@@ -21,12 +21,5 @@
       "date_of_birth": "18-03-1998",
       "issued_date": "30-05-2023"
     },
-    {
-      "full_name": "Sample Thomas",
-      "certificate_number": "000000",
-      "certificate_type": "Manager",
-      "date_of_birth": "18-03-1998",
-      "issued_date": "30-05-2023"
-    },
   ]
 }
