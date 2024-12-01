@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "full_name": "Shanavas Baiju PK",
+      "certificate_number": "12345",
+      "certificate_type": "Designing",
+      "date_of_birth": "30-05-1990",
+      "issued_date": "20-05-2023"
+    },
+    {
+      "full_name": "Luqman Paravety",
+      "certificate_number": "54321",
+      "certificate_type": "Developing",
+      "date_of_birth": "10-10-1995",
+      "issued_date": "01-04-2023"
+    },
+    {
+      "full_name": "Saju Thomas",
+      "certificate_number": "98765",
+      "certificate_type": "Manager",
+      "date_of_birth": "18-03-1998",
+      "issued_date": "30-05-2023"
+    }
+  ]
+}
